@@ -1,0 +1,139 @@
+body{
+    font-family: 'PT Serif', serif;
+    margin: 0;
+}
+.half__width{
+    width: 35%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 4%;
+    color: white;
+}
+.quatter__width{
+    width: 17%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 4%;
+    color: white;
+}
+section{
+    height:500px;
+    background: #131111;
+}
+img{
+    width: 100%;
+}
+p{
+    color: gray;
+    margin-bottom: 45px; 
+}
+.top__area{
+   padding: 15px 0 0 0;
+}
+.highlight__color{
+    color: orange;
+}
+.hire__btn,
+.resume__btn{
+    padding: 10px 15px;
+    background: linear-gradient(160deg,orange,tomato);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+}
+.about__area{
+  height: 470px;
+  padding-top: 20px;
+   
+}
+.work__area{
+    text-align: center;
+    padding: 20px 0;
+    background: #252020;
+    color: white;
+}
+.quatter__content{
+    width: 300px;
+    height: 350px;
+    padding: 10px;
+    margin-top: 10px;
+    background: #cfcbcb;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 4px 3px 7px 0px grey;
+}
+.quatter__content h2{
+    font-size: 23px;
+    color: #131111;
+}
+.inquiry__area{
+   text-align: center;
+  height: 400px;
+  padding-top: 7%;
+}
+.inquiry__in{
+    margin-left: 20%;
+    background-image: url("img/Group_33094_3.png");
+    background-repeat:no-repeat;
+    width: 850px;
+    height: 300px;
+    border-radius: 15px;
+}
+.inquiry__in .half__width h1{
+    font-size: 30px;
+    margin-top: 55%;
+}
+.inquiry__in .inquiry__btn{
+    text-align: right;
+    margin-top: 21%;
+}
+.inquiry__in .inquiry__btn a{
+    text-decoration: none;
+    padding: 10px;
+    background: linear-gradient(180deg, orange,tomato);
+    border-radius: 5px;
+}
+.contact__area{
+    background: #252020;
+    height: 300px;
+    padding: 30px 0 20px 0; 
+}
+.contact__area h1{
+   color: white;
+   text-align: center;
+   margin-top: 0;
+}
+.contact__list ul{
+    list-style: none;
+}
+.color__span{
+    color: white;
+}
+.contact__list ul li{
+    margin-bottom: 10px;
+}
+.contact__list ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #9c9292;
+}
+.contact__icon{
+    text-align: center;
+}
+.contact__icon img{
+    width: 30px;
+    margin-left: 15px;
+  
+}
+.footer__area{
+   margin-bottom: 0;
+   padding: 20px;
+   text-align: center;
+   background: #111111;
+}
+.footer__copy h2{
+    font-size: 12px;
+    color: gray;
+}
